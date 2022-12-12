@@ -1,6 +1,5 @@
-- 👋 Hello! My name is Faxeless!
-- 🌱 Right now i am learning LUA and C#!
-- 📫 You can reach me by discord! Faxeless#2137
+Right now i am learning LUA and C#!
+- 📫 You can reach me by discord! Faxeless#2066
 
 <!---
 Faxeless/Faxeless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
